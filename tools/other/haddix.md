@@ -73,4 +73,9 @@ https://github.com/xnl-h4ck3r/GAP-Burp-Extension
 Scavenger
 https://github.com/0xDexter0us/Scavenger
 
+Software Vulnerability Scanner
+https://portswigger.net/bappstore/c9fb79369b56407792a7104e3c4352fb
+https://github.com/portswigger/software-vulnerability-scanner
+
+
 
