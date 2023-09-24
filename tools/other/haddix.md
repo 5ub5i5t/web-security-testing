@@ -57,3 +57,20 @@ Install:
 ```
 go install github.com/hakluke/hakrawler@latest
 ```
+
+## Burp Extension
+
+Error Message Check
+https://github.com/portswigger/error-message-checks
+https://github.com/augustd/burp-suite-error-message-checks
+
+Flow
+https://github.com/portswigger/flow
+
+GAP
+https://github.com/xnl-h4ck3r/GAP-Burp-Extension
+
+Scavenger
+https://github.com/0xDexter0us/Scavenger
+
+
